@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Biryani-Rice, Ghee, Meat
+=======
+Tikka Masala- White Meat, Indian Masala
+>>>>>>> notgood
